@@ -1,0 +1,485 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Praecepta.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Praecepta.UI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\lyso\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lyso\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\icofont.min.css",
+      "PackagePath": "staticwebassets\\lyso\\css\\icofont.min.css"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\magnific-popup.min.css",
+      "PackagePath": "staticwebassets\\lyso\\css\\magnific-popup.min.css"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\lyso\\css\\meanmenu.css"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\mostrar.css",
+      "PackagePath": "staticwebassets\\lyso\\css\\mostrar.css"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\nice-select.min.css",
+      "PackagePath": "staticwebassets\\lyso\\css\\nice-select.min.css"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\odometer.min.css",
+      "PackagePath": "staticwebassets\\lyso\\css\\odometer.min.css"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lyso\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lyso\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\lyso\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\responsive.css.map",
+      "PackagePath": "staticwebassets\\lyso\\css\\responsive.css.map"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\responsive.scss",
+      "PackagePath": "staticwebassets\\lyso\\css\\responsive.scss"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\style.css",
+      "PackagePath": "staticwebassets\\lyso\\css\\style.css"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\lyso\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\style.scss",
+      "PackagePath": "staticwebassets\\lyso\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\theme-dark.css",
+      "PackagePath": "staticwebassets\\lyso\\css\\theme-dark.css"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\theme-dark.css.map",
+      "PackagePath": "staticwebassets\\lyso\\css\\theme-dark.css.map"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\theme-dark.scss",
+      "PackagePath": "staticwebassets\\lyso\\css\\theme-dark.scss"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\lyso\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\lyso\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\lyso\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\lyso\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\lyso\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\fonts\\flaticon.css",
+      "PackagePath": "staticwebassets\\lyso\\fonts\\flaticon.css"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\fonts\\icofont.eot",
+      "PackagePath": "staticwebassets\\lyso\\fonts\\icofont.eot"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\fonts\\icofont.svg",
+      "PackagePath": "staticwebassets\\lyso\\fonts\\icofont.svg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\fonts\\icofont.ttf",
+      "PackagePath": "staticwebassets\\lyso\\fonts\\icofont.ttf"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\fonts\\icofont.woff",
+      "PackagePath": "staticwebassets\\lyso\\fonts\\icofont.woff"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\fonts\\icofont.woff2",
+      "PackagePath": "staticwebassets\\lyso\\fonts\\icofont.woff2"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\PraeceptaLogo.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\PraeceptaLogo.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\about\\1.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\about\\1.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\about\\2.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\about\\2.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\attorney-details\\1.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\attorney-details\\1.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\blog-details\\1.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\blog-details\\1.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\blog-details\\2.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\blog-details\\2.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\blog-details\\3.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\blog-details\\3.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\blog-details\\4.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\blog-details\\4.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\case-details\\1.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\case-details\\1.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\contact-bg.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\contact-bg.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\1.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\1.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\10.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\10.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\11.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\11.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\12.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\12.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\2.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\2.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\3.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\3.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\4.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\4.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\5.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\5.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\6.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\6.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\7.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\7.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\8.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\8.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\9.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\9.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\blog\\1.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\blog\\2.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\blog\\3.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\blog\\4.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\blog\\4.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\blog\\5.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\blog\\5.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\blog\\6.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\blog\\6.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\blog\\7.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\blog\\7.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\blog\\8.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\blog\\8.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\blog\\9.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\blog\\9.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\footer.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\footer.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\location-bg.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\location-bg.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\newsletter.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\newsletter.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\portfolio\\1.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\portfolio\\1.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\portfolio\\2.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\portfolio\\2.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\portfolio\\3.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\portfolio\\3.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\portfolio\\4.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\portfolio\\4.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\portfolio\\5.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\portfolio\\5.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\portfolio\\6.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\portfolio\\6.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\portfolio\\7.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\portfolio\\7.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\portfolio\\8.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\portfolio\\8.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\portfolio\\9.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\portfolio\\9.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\team\\4.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\team\\5.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\team\\5.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\team\\6.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\team\\6.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\team\\7.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\team\\7.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-one\\team\\8.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-one\\team\\8.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-two\\1.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-two\\1.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-two\\4.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-two\\4.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-two\\5.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-two\\5.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-two\\6.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-two\\6.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-two\\home-slider\\1.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-two\\home-slider\\1.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-two\\home-slider\\2.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-two\\home-slider\\2.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-two\\home-slider\\3.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-two\\home-slider\\3.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-two\\home-slider\\4.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\home-two\\home-slider\\4.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\logo.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\night.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\night.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\sunny.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\sunny.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\testimonial\\1.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\testimonial\\1.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\testimonial\\2.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\testimonial\\2.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\testimonial\\3.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\testimonial\\3.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\testimonial\\4.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\testimonial\\4.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\testimonial\\5.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\testimonial\\5.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\testimonial\\6.jpg",
+      "PackagePath": "staticwebassets\\lyso\\img\\testimonial\\6.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lyso\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\js\\contact-form-script.js",
+      "PackagePath": "staticwebassets\\lyso\\js\\contact-form-script.js"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\js\\custom.js",
+      "PackagePath": "staticwebassets\\lyso\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\js\\form-validator.min.js",
+      "PackagePath": "staticwebassets\\lyso\\js\\form-validator.min.js"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\lyso\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\js\\jquery.appear.min.js",
+      "PackagePath": "staticwebassets\\lyso\\js\\jquery.appear.min.js"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\lyso\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\js\\jquery.meanmenu.js",
+      "PackagePath": "staticwebassets\\lyso\\js\\jquery.meanmenu.js"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lyso\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\lyso\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\js\\map.js",
+      "PackagePath": "staticwebassets\\lyso\\js\\map.js"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\js\\odometer.min.js",
+      "PackagePath": "staticwebassets\\lyso\\js\\odometer.min.js"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lyso\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta\\Praecepta.UI\\wwwroot\\lyso\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\lyso\\js\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Praecepta.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Praecepta.UI.props",
+      "PackagePath": "build\\Praecepta.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Praecepta.UI.props",
+      "PackagePath": "buildMultiTargeting\\Praecepta.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Praecepta.UI.props",
+      "PackagePath": "buildTransitive\\Praecepta.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
