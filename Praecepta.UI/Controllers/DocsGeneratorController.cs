@@ -13,5 +13,9 @@ namespace Praecepta.UI.Controllers
         {
             return View();
         }
+        public IActionResult DocsHistorial()
+        {
+            return View();
+        }
     }
 }
