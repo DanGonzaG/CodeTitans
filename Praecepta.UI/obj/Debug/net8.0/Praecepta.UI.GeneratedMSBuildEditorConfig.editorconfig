@@ -9,85 +9,103 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Praecepta.UI
 build_property.RootNamespace = Praecepta.UI
-build_property.ProjectDir = C:\CodeTitans\Praecepta.UI\
+build_property.ProjectDir = C:\AppPraecepta\Praecepta.UI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\CodeTitans\Praecepta.UI
+build_property.MSBuildProjectDirectory = C:\AppPraecepta\Praecepta.UI
 build_property._RazorSourceGeneratorDebug = 
-build_property.EffectiveAnalysisLevelStyle = 8.0
-build_property.EnableCodeStyleSeverity = 
 
-[C:/CodeTitans/Praecepta.UI/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/AppPraecepta/Praecepta.UI/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CodeTitans/Praecepta.UI/Views/DocsGenerator/DocsGenerator.cshtml]
+[C:/AppPraecepta/Praecepta.UI/Views/DocsGenerator/DocsGenerator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jc0dlbmVyYXRvclxEb2NzR2VuZXJhdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CodeTitans/Praecepta.UI/Views/DocsGenerator/DocsHistorial.cshtml]
+[C:/AppPraecepta/Praecepta.UI/Views/DocsGenerator/DocsHistorial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jc0dlbmVyYXRvclxEb2NzSGlzdG9yaWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CodeTitans/Praecepta.UI/Views/Home/About.cshtml]
+[C:/AppPraecepta/Praecepta.UI/Views/DocsGenerator/DocsPrevisualizacion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jc0dlbmVyYXRvclxEb2NzUHJldmlzdWFsaXphY2lvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppPraecepta/Praecepta.UI/Views/GestionCasos/ActualizarEtapa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VzdGlvbkNhc29zXEFjdHVhbGl6YXJFdGFwYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppPraecepta/Praecepta.UI/Views/GestionCasos/CasosListado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VzdGlvbkNhc29zXENhc29zTGlzdGFkby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppPraecepta/Praecepta.UI/Views/GestionCasos/EtapasPL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VzdGlvbkNhc29zXEV0YXBhc1BMLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppPraecepta/Praecepta.UI/Views/GestionCasos/FormularioCaso.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VzdGlvbkNhc29zXEZvcm11bGFyaW9DYXNvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/AppPraecepta/Praecepta.UI/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CodeTitans/Praecepta.UI/Views/Home/AttorneyDetails/AttorneyDetails.cshtml]
+[C:/AppPraecepta/Praecepta.UI/Views/Home/AttorneyDetails/AttorneyDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBdHRvcm5leURldGFpbHNcQXR0b3JuZXlEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CodeTitans/Praecepta.UI/Views/Home/Attorneys.cshtml]
+[C:/AppPraecepta/Praecepta.UI/Views/Home/Attorneys.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBdHRvcm5leXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CodeTitans/Praecepta.UI/Views/Home/Contact.cshtml]
+[C:/AppPraecepta/Praecepta.UI/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CodeTitans/Praecepta.UI/Views/Home/Index.cshtml]
+[C:/AppPraecepta/Praecepta.UI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CodeTitans/Praecepta.UI/Views/Home/Practice/PracticeCrimeLaw.cshtml]
+[C:/AppPraecepta/Praecepta.UI/Views/Home/Practice/PracticeCrimeLaw.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmFjdGljZVxQcmFjdGljZUNyaW1lTGF3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CodeTitans/Praecepta.UI/Views/Home/Privacy.cshtml]
+[C:/AppPraecepta/Praecepta.UI/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CodeTitans/Praecepta.UI/Views/Home/Testimonials.cshtml]
+[C:/AppPraecepta/Praecepta.UI/Views/Home/Testimonials.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXN0aW1vbmlhbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CodeTitans/Praecepta.UI/Views/Shared/Error.cshtml]
+[C:/AppPraecepta/Praecepta.UI/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CodeTitans/Praecepta.UI/Views/Shared/_LoginPartial.cshtml]
+[C:/AppPraecepta/Praecepta.UI/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CodeTitans/Praecepta.UI/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/AppPraecepta/Praecepta.UI/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CodeTitans/Praecepta.UI/Views/_ViewImports.cshtml]
+[C:/AppPraecepta/Praecepta.UI/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CodeTitans/Praecepta.UI/Views/_ViewStart.cshtml]
+[C:/AppPraecepta/Praecepta.UI/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/CodeTitans/Praecepta.UI/Views/Shared/_Layout.cshtml]
+[C:/AppPraecepta/Praecepta.UI/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dipjio3zmq
 
-[C:/CodeTitans/Praecepta.UI/Views/Shared/_LayoutLyso.cshtml]
+[C:/AppPraecepta/Praecepta.UI/Views/Shared/_LayoutLyso.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRMeXNvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-5e0kjvxdk2

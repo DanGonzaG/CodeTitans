@@ -1,107 +1,80 @@
-﻿<head>
-	<link href="~/lyso/css/mostrar.css" rel="stylesheet" />
+﻿@model IEnumerable<ModelDocsEjemplo>
+<head>
+    <link href="~/lyso/css/mostrar.css" rel="stylesheet" />
 </head>
 
 <!-- Page Title -->
 <div class="page-title-area page-title-area-two title-img-one">
-	<div class="d-table">
-		<div class="d-table-cell">
-			<div class="page-title-text">
-				<h2>Historial de documentos legales</h2>
-				<ul>
-					<li>
-						<a asp-controller="Home" asp-action="Index">Home</a>
-					</li>
-					<li>
-						<i class="icofont-simple-right"></i>
-					</li>
-					<li>Historial</li>
-				</ul>
-			</div>
-		</div>
-	</div>
+    <div class="d-table">
+        <div class="d-table-cell">
+            <div class="page-title-text">
+                <h2>Historial de documentos legales</h2>
+                <ul>
+                    <li>
+                        <a asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
+                    <li>
+                        <i class="icofont-simple-right"></i>
+                    </li>
+                    <li>Historial</li>
+                </ul>
+            </div>
+        </div>
+    </div>
 </div>
 <!-- End Page Title -->
-
+<br />
+<br />
+<br />
 <div class="formulario contact-form contact-form-two contact-form-three">
-<div class="container">
-	<table class="table">
-		<thead>
-			<tr>
-				<th>
-					Fecha
-				</th>
-				<th>
-					Tipo Documentto
-				</th>
-				<th>
-					Cliente
-				</th>
-				<th>
-					Abogado
-				</th>
+    <div class="container">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(Model => Model.Fecha)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(Model => Model.TipoDocumento)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(Model => Model.Cliente)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(Model => Model.Abogado)
+                    </th>
 
-				<th></th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>
-					2/2/22
-				</td>
-				<td>
-					Traspaso de Vehículo
-				</td>
-				<td>
-					Daniel Guerrero
-				</td>
-				<td>
-					Lic Juan Juan
-				</td>
-						
-				<td>
-					
-				</td>
-			</tr>
-			<tr>
-				<td>
-					2/2/22
-				</td>
-				<td>
-					Traspaso de Vehículo
-				</td>
-				<td>
-					Daniel Guerrero
-				</td>
-				<td>
-					Lic Juan Juan
-				</td>
-
-				<td>
-				</td>
-			</tr>
-			<tr>
-				<td>
-					2/2/22
-				</td>
-				<td>
-					Traspaso de Vehículo
-				</td>
-				<td>
-					Daniel Guerrero
-				</td>
-				<td>
-					Lic Juan Juan
-				</td>
-
-				<td>
-				</td>
-			</tr>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @item.Fecha
+                        </td>
+                        <td>
+                            @item.TipoDocumento
+                        </td>
+                        <td>
+                            @item.Cliente
+                        </td>
+                        <td>
+                            @item.Abogado
+                        </td>
+                        <td>
+                            <a class="cmn-btn" asp-controller="Home" asp-action="Index"><i class="fa-solid fa-eye"></i></a>
+                            
+                        </td>
+                    </tr>
+                }
+               
 
 
-		</tbody>
-	</table>
-</div>
+            </tbody>
+        </table>
+    </div>
 </div>
 
 

@@ -22,6 +22,7 @@
     <link rel="stylesheet" href="~/lyso/css/magnific-popup.min.css">
     <!-- Flaticon CSS -->
     <link rel="stylesheet" href="~/lyso/fonts/flaticon.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <!-- Animate CSS -->
     <link rel="stylesheet" href="~/lyso/css/animate.min.css">
     <!-- Odometer CSS -->
@@ -85,7 +86,7 @@
                                 <a asp-controller="Home" asp-action="Contact" class="nav-link">Contact</a>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link dropdown-toggle">Documentos Legal</a>
+                                <a href="#" class="nav-link dropdown-toggle">Documentos</a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
                                         <a asp-controller="DocsGenerator" asp-action="DocsGenerator" class="nav-link">Generardor de Documentos</a>
@@ -95,6 +96,21 @@
                                     </li>
                                     <li class="nav-item">
                                         <a href="case-study-details.html" class="nav-link">Tutoriales de herramienta</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#" class="nav-link dropdown-toggle">Casos</a>
+                                <ul class="dropdown-menu">
+                                    <li class="nav-item">
+                                        <a asp-controller="GestionCasos" asp-action="CasosListado" class="nav-link">Listado de casos</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a asp-controller="GestionCasos" asp-action="FormularioCaso" class="nav-link">Crear Caso</a>
+                                    </li>
+                                   
+                                    <li class="nav-item">
+                                        <a href="case-study-details.html" class="nav-link">Casos cerrados</a>
                                     </li>
                                 </ul>
                             </li>

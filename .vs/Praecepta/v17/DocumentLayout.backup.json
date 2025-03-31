@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\CodeTitans\\",
+  "WorkspaceRootPath": "C:\\AppPraecepta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\codetitans\\praecepta.ui\\views\\shared\\_layoutlyso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\apppraecepta\\praecepta.ui\\views\\gestioncasos\\formulariocaso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\views\\gestioncasos\\formulariocaso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\apppraecepta\\praecepta.ui\\views\\shared\\_layoutlyso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\views\\shared\\_layoutlyso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\codetitans\\praecepta.ui\\views\\home\\attorneys.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\views\\home\\attorneys.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\apppraecepta\\praecepta.ui\\controllers\\gestioncasoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\controllers\\gestioncasoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\codetitans\\praecepta.ui\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\apppraecepta\\praecepta.ui\\views\\gestioncasos\\etapaspl.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\views\\gestioncasos\\etapaspl.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\codetitans\\praecepta.ui\\views\\home\\testimonials.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\views\\home\\testimonials.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\apppraecepta\\praecepta.ui\\views\\gestioncasos\\casoslistado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\views\\gestioncasos\\casoslistado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\codetitans\\praecepta.ui\\views\\docsgenerator\\docshistorial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\views\\docsgenerator\\docshistorial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\codetitans\\praecepta.ui\\controllers\\docsgeneratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\controllers\\docsgeneratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\apppraecepta\\praecepta.ui\\models\\modulocasos\\modelcasos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\models\\modulocasos\\modelcasos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,104 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 214,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Attorneys.cshtml",
-              "DocumentMoniker": "C:\\CodeTitans\\Praecepta.UI\\Views\\Home\\Attorneys.cshtml",
-              "RelativeDocumentMoniker": "Praecepta.UI\\Views\\Home\\Attorneys.cshtml",
-              "ToolTip": "C:\\CodeTitans\\Praecepta.UI\\Views\\Home\\Attorneys.cshtml",
-              "RelativeToolTip": "Praecepta.UI\\Views\\Home\\Attorneys.cshtml",
-              "ViewState": "AgIAAP8AAAAAAAAAAAAAAAMBAAAkAAAAAAAAAA==",
+              "Title": "_LayoutLyso.cshtml",
+              "DocumentMoniker": "C:\\AppPraecepta\\Praecepta.UI\\Views\\Shared\\_LayoutLyso.cshtml",
+              "RelativeDocumentMoniker": "Praecepta.UI\\Views\\Shared\\_LayoutLyso.cshtml",
+              "ToolTip": "C:\\AppPraecepta\\Praecepta.UI\\Views\\Shared\\_LayoutLyso.cshtml",
+              "RelativeToolTip": "Praecepta.UI\\Views\\Shared\\_LayoutLyso.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T09:46:18.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Testimonials.cshtml",
-              "DocumentMoniker": "C:\\CodeTitans\\Praecepta.UI\\Views\\Home\\Testimonials.cshtml",
-              "RelativeDocumentMoniker": "Praecepta.UI\\Views\\Home\\Testimonials.cshtml",
-              "ToolTip": "C:\\CodeTitans\\Praecepta.UI\\Views\\Home\\Testimonials.cshtml",
-              "RelativeToolTip": "Praecepta.UI\\Views\\Home\\Testimonials.cshtml",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T09:44:01.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\CodeTitans\\Praecepta.UI\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "Praecepta.UI\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\CodeTitans\\Praecepta.UI\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "Praecepta.UI\\Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T09:38:04.185Z",
+              "WhenOpened": "2025-03-31T03:34:06.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_LayoutLyso.cshtml",
-              "DocumentMoniker": "C:\\CodeTitans\\Praecepta.UI\\Views\\Shared\\_LayoutLyso.cshtml",
-              "RelativeDocumentMoniker": "Praecepta.UI\\Views\\Shared\\_LayoutLyso.cshtml",
-              "ToolTip": "C:\\CodeTitans\\Praecepta.UI\\Views\\Shared\\_LayoutLyso.cshtml",
-              "RelativeToolTip": "Praecepta.UI\\Views\\Shared\\_LayoutLyso.cshtml",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAAAEIAAAA+AAAAAAAAAA==",
+              "Title": "FormularioCaso.cshtml",
+              "DocumentMoniker": "C:\\AppPraecepta\\Praecepta.UI\\Views\\GestionCasos\\FormularioCaso.cshtml",
+              "RelativeDocumentMoniker": "Praecepta.UI\\Views\\GestionCasos\\FormularioCaso.cshtml",
+              "ToolTip": "C:\\AppPraecepta\\Praecepta.UI\\Views\\GestionCasos\\FormularioCaso.cshtml",
+              "RelativeToolTip": "Praecepta.UI\\Views\\GestionCasos\\FormularioCaso.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDoAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T09:11:02.546Z",
+              "WhenOpened": "2025-03-31T03:32:01.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DocsGeneratorController.cs",
-              "DocumentMoniker": "C:\\CodeTitans\\Praecepta.UI\\Controllers\\DocsGeneratorController.cs",
-              "RelativeDocumentMoniker": "Praecepta.UI\\Controllers\\DocsGeneratorController.cs",
-              "ToolTip": "C:\\CodeTitans\\Praecepta.UI\\Controllers\\DocsGeneratorController.cs",
-              "RelativeToolTip": "Praecepta.UI\\Controllers\\DocsGeneratorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T09:09:57.869Z",
+              "DocumentIndex": 3,
+              "Title": "EtapasPL.cshtml",
+              "DocumentMoniker": "C:\\AppPraecepta\\Praecepta.UI\\Views\\GestionCasos\\EtapasPL.cshtml",
+              "RelativeDocumentMoniker": "Praecepta.UI\\Views\\GestionCasos\\EtapasPL.cshtml",
+              "ToolTip": "C:\\AppPraecepta\\Praecepta.UI\\Views\\GestionCasos\\EtapasPL.cshtml",
+              "RelativeToolTip": "Praecepta.UI\\Views\\GestionCasos\\EtapasPL.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAIEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T01:08:00.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DocsHistorial.cshtml",
-              "DocumentMoniker": "C:\\CodeTitans\\Praecepta.UI\\Views\\DocsGenerator\\DocsHistorial.cshtml",
-              "RelativeDocumentMoniker": "Praecepta.UI\\Views\\DocsGenerator\\DocsHistorial.cshtml",
-              "ToolTip": "C:\\CodeTitans\\Praecepta.UI\\Views\\DocsGenerator\\DocsHistorial.cshtml",
-              "RelativeToolTip": "Praecepta.UI\\Views\\DocsGenerator\\DocsHistorial.cshtml",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGgAAAAGAAAAAAAAAA==",
+              "Title": "CasosListado.cshtml",
+              "DocumentMoniker": "C:\\AppPraecepta\\Praecepta.UI\\Views\\GestionCasos\\CasosListado.cshtml",
+              "RelativeDocumentMoniker": "Praecepta.UI\\Views\\GestionCasos\\CasosListado.cshtml",
+              "ToolTip": "C:\\AppPraecepta\\Praecepta.UI\\Views\\GestionCasos\\CasosListado.cshtml",
+              "RelativeToolTip": "Praecepta.UI\\Views\\GestionCasos\\CasosListado.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAD8AAAB1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T08:14:52.831Z",
+              "WhenOpened": "2025-03-30T22:25:23.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModelCasos.cs",
+              "DocumentMoniker": "C:\\AppPraecepta\\Praecepta.UI\\Models\\ModuloCasos\\ModelCasos.cs",
+              "RelativeDocumentMoniker": "Praecepta.UI\\Models\\ModuloCasos\\ModelCasos.cs",
+              "ToolTip": "C:\\AppPraecepta\\Praecepta.UI\\Models\\ModuloCasos\\ModelCasos.cs",
+              "RelativeToolTip": "Praecepta.UI\\Models\\ModuloCasos\\ModelCasos.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA1wCcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:10:14.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestionCasosController.cs",
+              "DocumentMoniker": "C:\\AppPraecepta\\Praecepta.UI\\Controllers\\GestionCasosController.cs",
+              "RelativeDocumentMoniker": "Praecepta.UI\\Controllers\\GestionCasosController.cs",
+              "ToolTip": "C:\\AppPraecepta\\Praecepta.UI\\Controllers\\GestionCasosController.cs",
+              "RelativeToolTip": "Praecepta.UI\\Controllers\\GestionCasosController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:09:11.454Z",
               "EditorCaption": ""
             }
           ]

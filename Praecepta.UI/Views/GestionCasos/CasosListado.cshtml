@@ -1,0 +1,76 @@
+﻿@using Praecepta.UI.Models.ModuloCasos
+@model IEnumerable<ModelCasos>
+<!-- Page Title -->
+<div class="page-title-area page-title-area-two title-img-one">
+    <div class="d-table">
+        <div class="d-table-cell">
+            <div class="page-title-text">
+                <h2>Casos Legales Activos</h2>
+                <ul>
+                    <li>
+                        <a asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
+                    <li>
+                        <i class="icofont-simple-right"></i>
+                    </li>
+                    <li>Casos</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<br />
+<br />
+<br />
+<div class="contact-form contact-form-two contact-form-three">
+    <div class="container">
+        <div class="contact-wrap">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(Model => Model.NumCaso)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(Model => Model.FechaInicio)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(Model => Model.TipoCaso)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(Model => Model.Cliente)
+                        </th>               
+                        <th>Proceso Legal</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @item.NumCaso
+                            </td>
+                            <td>
+                                @item.FechaInicio
+                            </td>
+                            <td>
+                                @item.TipoCaso
+                            </td>
+                            <td>
+                                @item.Cliente
+                            </td>
+                            <td>
+                                <a class="cmn-btn" asp-controller="GestionCasos" asp-action="EtapasPL"><img width="30" src="~/lyso/fonts/png/court.png" /></a>
+                                
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <div class="help-shape">
+                <img src="~/lyso/img/home-one/6.png" alt="Shape">
+            </div>
+        </div>
+    </div>
+</div>
