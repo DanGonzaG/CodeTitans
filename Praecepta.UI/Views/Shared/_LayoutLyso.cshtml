@@ -79,9 +79,18 @@
                             </li>
                             <li class="nav-item">
                                 <a asp-controller="Home" asp-action="Attorneys">Attorneys</a>
-                            </li>
+                            </li>                            
                             <li class="nav-item">
-                                <a asp-controller="Home" asp-action="Testimonials">Testimonial</a>
+                                <a href="#" class="nav-link dropdown-toggle">Testimonials</a>
+                                <ul class="dropdown-menu">
+                                    <li class="nav-item">
+                                        <a asp-controller="Home" asp-action="Testimonials" class="nav-link">Testimonial</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a asp-controller="Testimonials" asp-action="TestimonialsLista" class="nav-link">Testimonials List</a>
+                                    </li>
+                                    
+                                </ul>
                             </li>
                             <li class="nav-item">
                                 <a asp-controller="Home" asp-action="Contact" class="nav-link">Contact</a>

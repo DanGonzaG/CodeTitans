@@ -20,3 +20,29 @@
 .LetraNegra {
     color:black;
 }
+
+
+/*Vista FormTesmonials*/
+.clasificacion{
+     direction: rtl;
+  unicode-bidi: bidi-override;
+}
+
+.InputCalficacion {
+    display: none;
+}
+
+.LabelCalificacion {
+    color: grey;
+    font-size: 40px;
+}
+
+.LabelCalificacion:hover,
+.LabelCalificacion:hover ~ label {
+        color: orange;
+    }
+
+.InputCalficacion[type="radio"]:checked ~ label {
+    color: orange;
+}
+/*End Vista FormTesmonials*/
