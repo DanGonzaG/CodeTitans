@@ -44,6 +44,11 @@ namespace Praecepta.UI.Controllers
             return View();
         }
 
+        public IActionResult TestimonialForm()
+        {
+            return View();
+        }
+
         public IActionResult Contact()
         {
             return View();

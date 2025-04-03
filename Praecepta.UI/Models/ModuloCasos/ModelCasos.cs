@@ -26,6 +26,9 @@ namespace Praecepta.UI.Models.ModuloCasos
 
         public string Abogado { get; set; }
 
+        [DisplayName("Licencia de Abogado")]
+        public  int  AbogadoLicencia { get; set; }
+
 
         // -------------------------------------//
         //---------Etapa Proceso Legal//
