@@ -43,26 +43,32 @@
                                 <li>
                                     <i class="flaticon-login"></i>
                                     <!--<a href="tel:+07554332322">-->
-                                    Corporación XYZ
-                                    </a>
+                                    Andres Ramos Campos
+                                    <!--</a>-->
+                                </li>
+                                <li>
+                                    <i class="flaticon-login"></i>
+                                    <!--<a href="tel:+07554332322">-->
+                                    1 4578 8954
+                                    <!--</a>-->
                                 </li>
                                 <li>
                                     <i class="flaticon-call"></i>
                                     <!--<a href="tel:+07554332322">-->
                                         Call : +506 5533 2322
-                                    </a>
+                                    <!--</a>-->
                                 </li>
                                 <li>
                                     <i class="flaticon-email"></i>
                                     <!--<a href="mailto:hello@lyzo.com">-->
                                         melisa@gmail.com
-                                    </a>
+                                    <!--</a>-->
                                 </li>
                                 <li>
                                     <i class="flaticon-age"></i>
                                     <!--<a href="mailto:hello@lyzo.com">-->
                                     48
-                                    </a>
+                                    <!--</a>-->
                                 </li>
                                 <li>
                                     <i class="flaticon-pin"></i>
@@ -82,6 +88,7 @@
                             <h2>Disputa de contrato</h2> <!--TituloCaso-->
                             <span>Caso Civil</span> <!--Tipo Caso-->
                             <p>Lic Carmen Sánchez</p> <!--Abogado-->
+                            <p>12346785</p> <!--Licencia-->
                             <p>Inicio 2025, 03, 15</p>
                         </div>
                         <div class="attor-details-things">
@@ -97,10 +104,12 @@
                                 
                             </ul>
                         </div>
-                        <!---<div class="attor-details-things">
-                            <h3>Research</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra</p>
-                        </div>-->
+                        <div class="attor-details-things">             
+                            <bottom type="button" class="contact-btn"><a style="color:white" asp-controller="GestionCasos" asp-action="FormularioEtapaPL">Nueva Etapa Procesal</a></bottom>
+                        </div>
+                        <div class="attor-details-things">
+                            <bottom type="button" class="contact-btn">Descargar Caso Completo</bottom>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -127,7 +136,7 @@
                         <th>
                             @Html.DisplayNameFor(Model => Model.PruebasEtapas)
                         </th>
-                        <!--<th>Proceso Legal</th>-->
+                        <th>Proceso Legal</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -146,15 +155,46 @@
                             <td>
                                 @item.PruebasEtapas
                             </td>
-                            <!--<td>
-                                <a class="cmn-btn" asp-controller="GestionCasos" asp-action="EtapasPL"><i class="fa-solid fa-eye"></i></a>
+                            <td>
+                                <button type="button" id="PrevioBtn" class="contact-btn" data-bs-toggle="modal" data-bs-target="#PrevioModal">
+                                Detalles
+                            </button>
 
-                            </td>-->
+                            </td>
                         </tr>
                     }
+
+
                 </tbody>
             </table>
   
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="PrevioModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="formulario contact-form contact-form-two">
+                <div class="container">
+                    <div class="contact-wrap" style="color: black">
+                        <h2>Detalles de Etapa del Proceso Legal</h2>
+                        <p style="color: black"><strong>Descripcion:</strong> <p>Revisión inicial de documentos del caso.</p> </p>
+                        <p style="color: black"><strong>Fecha de Etapa:</strong><p>02-Apr-25</p> </p>
+                        <p style="color: black"><strong>Numero de Etapa:</strong><p>10001</p> </p>
+                        <p style="color: black"><strong>Pruebas:</strong> <p>Copia del contrato firmado</p> </p>
+                        <p style="color: black"><strong>Detalles:</strong><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p> </p>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="contact-btn" id="BtnObtenerPDF">Descargar</button>
+                <button type="button" class="contact-btn" id="BtnModificarPL">Modificar</button>
+                <button type="button" class="contact-btn" id="BtnModificarPL">Eliminar</button>
+                <button type="button" class="contact-btn" data-bs-dismiss="modal" id="Retroceso">Close</button>
+               
+            </div>
         </div>
     </div>
 </div>

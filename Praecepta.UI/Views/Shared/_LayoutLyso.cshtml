@@ -9,6 +9,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="~/lyso/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.2.2/css/dataTables.dataTables.css" />
     <!-- Meanmenu CSS -->
     <link rel="stylesheet" href="~/lyso/css/meanmenu.css">
     <!-- Icofont CSS -->
@@ -103,6 +104,12 @@
                                 <a href="#" class="nav-link dropdown-toggle">Casos</a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
+                                        <a asp-controller="GestionCasos" asp-action="SolicitudCaso" class="nav-link">Solicitar Servicio</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a asp-controller="GestionCasos" asp-action="CasosListadoCliente" class="nav-link">Listado Casos Cliente</a>
+                                    </li>
+                                    <li class="nav-item">
                                         <a asp-controller="GestionCasos" asp-action="CasosListado" class="nav-link">Listado de casos</a>
                                     </li>
                                     <li class="nav-item">
@@ -110,39 +117,18 @@
                                     </li>
                                    
                                     <li class="nav-item">
-                                        <a href="case-study-details.html" class="nav-link">Casos cerrados</a>
+                                        <a asp-controller="GestionCasos" asp-action="CasosCerrados" class="nav-link">Casos Cerrados</a>
                                     </li>
                                 </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a asp-controller="Citas" asp-action="Calendar" class="nav-link dropdown-toggle">Appointment</a>
                             </li>
 
 
 
 
-
-
-                            <li class="nav-item">
-                                <a href="#" class="nav-link dropdown-toggle">Case Studies</a>
-                                <ul class="dropdown-menu">
-                                    <li class="nav-item">
-                                        <a href="case-study.html" class="nav-link">Case Study</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="case-study-details.html" class="nav-link">Case Study Details</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="nav-item">
-                                <a href="#" class="nav-link dropdown-toggle">Blogs</a>
-                                <ul class="dropdown-menu">
-                                    <li class="nav-item">
-                                        <a href="blog.html" class="nav-link">Blog</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a href="blog-details.html" class="nav-link">Blog Details</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="nav-item">
+                            <!--<li class="nav-item">
                                 <a href="#" class="nav-link dropdown-toggle">Pages</a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
@@ -169,13 +155,35 @@
                                     <li class="nav-item">
                                         <a href="terms-conditions.html" class="nav-link">Terms & Conditions</a>
                                     </li>
+                                    <li class="nav-item">
+                                        <a href="#" class="nav-link dropdown-toggle">Blogs</a>
+                                        <ul class="dropdown-menu">
+                                            <li class="nav-item">
+                                                <a href="blog.html" class="nav-link">Blog</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="blog-details.html" class="nav-link">Blog Details</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="#" class="nav-link dropdown-toggle">Case Studies</a>
+                                        <ul class="dropdown-menu">
+                                            <li class="nav-item">
+                                                <a href="case-study.html" class="nav-link">Case Study</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a href="case-study-details.html" class="nav-link">Case Study Details</a>
+                                            </li>
+                                        </ul>
+                                    </li>
                                 </ul>
-                            </li>
+                            </li>-->
                         </ul>
                         <partial name="_LoginPartial" class="nav-link" />
-                        <div class="side-nav">
+                        <!--<div class="side-nav">
                             <a href="appointment.html">Get Appointment</a>
-                        </div>
+                        </div>-->
                     </div>
                 </nav>
                
@@ -351,6 +359,7 @@
     <!-- Essential JS -->
     <script src="~/lyso/js/jquery.min.js"></script>
     <script src="~/lyso/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.datatables.net/2.2.2/js/dataTables.js"></script>
     <!-- Meanmenu JS -->
     <script src="~/lyso/js/jquery.meanmenu.js"></script>
     <!-- Nice Select JS -->

@@ -5,8 +5,24 @@
       "PackagePath": "staticwebassets\\Praecepta.UI.bundle.scp.css"
     },
     {
+      "Id": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\Calendario\\CalendarDaniel.css",
+      "PackagePath": "staticwebassets\\Calendario\\CalendarDaniel.css"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\Calendario\\scriptCalendar.js",
+      "PackagePath": "staticwebassets\\Calendario\\scriptCalendar.js"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\Calendario\\styleCalendar.css",
+      "PackagePath": "staticwebassets\\Calendario\\styleCalendar.css"
+    },
+    {
       "Id": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\Daniel.css",
+      "PackagePath": "staticwebassets\\lyso\\css\\Daniel.css"
     },
     {
       "Id": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\animate.min.css",
@@ -27,10 +43,6 @@
     {
       "Id": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\meanmenu.css",
       "PackagePath": "staticwebassets\\lyso\\css\\meanmenu.css"
-    },
-    {
-      "Id": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\mostrar.css",
-      "PackagePath": "staticwebassets\\lyso\\css\\mostrar.css"
     },
     {
       "Id": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\nice-select.min.css",
@@ -487,6 +499,10 @@
     {
       "Id": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\testimonial\\6.jpg",
       "PackagePath": "staticwebassets\\lyso\\img\\testimonial\\6.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\lyso\\js\\Daniel.js",
+      "PackagePath": "staticwebassets\\lyso\\js\\Daniel.js"
     },
     {
       "Id": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\lyso\\js\\bootstrap.bundle.min.js",
