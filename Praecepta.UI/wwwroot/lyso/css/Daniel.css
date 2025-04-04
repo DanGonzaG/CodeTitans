@@ -46,3 +46,14 @@
     color: orange;
 }
 /*End Vista FormTesmonials*/
+
+#tooltip {
+    position: absolute;
+    background-color: #333; /* Color del fondo */
+    color: white; /* Color del texto */
+    padding: 5px; /* Espaciado interno */
+    border-radius: 5px; /* Bordes redondeados */
+    display: none; /* Oculto por defecto */
+    z-index: 1000; /* Asegura que esté por encima de otros elementos */
+}
+

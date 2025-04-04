@@ -63,8 +63,8 @@
         </div>
 
         <!-- Menu For Desktop Device -->
-        <div class="main-nav">           
-            <div class="container">                
+        <div class="main-nav">
+            <div class="container">
                 <nav class="navbar navbar-expand-md navbar-light">
                     <a class="navbar-brand" asp-action="Index">
                         <img src="~/lyso/img/PraeceptaLogo.png" alt="Logo">
@@ -79,7 +79,7 @@
                             </li>
                             <li class="nav-item">
                                 <a asp-controller="Home" asp-action="Attorneys">Attorneys</a>
-                            </li>                            
+                            </li>
                             <li class="nav-item">
                                 <a href="#" class="nav-link dropdown-toggle">Testimonials</a>
                                 <ul class="dropdown-menu">
@@ -89,7 +89,7 @@
                                     <li class="nav-item">
                                         <a asp-controller="Testimonials" asp-action="TestimonialsLista" class="nav-link">Testimonials List</a>
                                     </li>
-                                    
+
                                 </ul>
                             </li>
                             <li class="nav-item">
@@ -105,7 +105,21 @@
                                         <a asp-controller="DocsGenerator" asp-action="DocsHistorial" class="nav-link">Historial de Documentos</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="case-study-details.html" class="nav-link">Tutoriales de herramienta</a>
+                                        <a href="#" class="nav-link dropdown">Documentos Recientes</a>
+                                        <ul class="dropdown-menu">
+                                            <li class="nav-item">
+                                                <a class="nav-link">Traspaso Vehículo : Daniel González</a>
+                                            </li> 
+                                            <li class="nav-item">
+                                                <a class="nav-link">Reclamación Herencia : Javier Cruz</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link">Rectificación de Escritura : María López</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a asp-controller="DocsGenerator" asp-action="Tutorial" class="nav-link">Tutoriales de herramienta</a>
                                     </li>
                                 </ul>
                             </li>
@@ -124,7 +138,7 @@
                                     <li class="nav-item">
                                         <a asp-controller="GestionCasos" asp-action="FormularioCaso" class="nav-link">Crear Caso</a>
                                     </li>
-                                   
+
                                     <li class="nav-item">
                                         <a asp-controller="GestionCasos" asp-action="CasosCerrados" class="nav-link">Casos Cerrados</a>
                                     </li>
@@ -195,11 +209,11 @@
                         </div>-->
                     </div>
                 </nav>
-               
+
             </div>
-          
-        </div> 
-       
+
+        </div>
+
     </div>
     <!-- End Navbar -->
 
@@ -390,6 +404,7 @@
     <script src="~/lyso/js/wow.min.js"></script>
     <!-- Custom JS -->
     <script src="~/lyso/js/custom.js"></script>
+    
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

@@ -1,4 +1,6 @@
-﻿document.getElementById('PrevioBtn').addEventListener('click', () => {
+﻿//Vista Formulario caso
+//es codigo lo que hace es almacenar los datos de form en el modal y viceversa
+document.getElementById('PrevioBtn').addEventListener('click', () => {
     const TipoCaso = document.getElementById('TipoCaso').value;
     const titulo = document.getElementById('titulo').value;
     const Pruebas = document.getElementById('Pruebas').value;
@@ -44,5 +46,22 @@
 
         console.log('Cerrando el modal y eliminando el fondo...');
 
+
+
     });
 });
+
+
+//Vista DocsGenerator
+//este codigo lo que hace es mostrar solo el formulario seleccionado en dropdown
+function mostrarFormulario() {
+    // Oculta todos los formularios
+    const formularios = document.querySelectorAll('.formulario');
+    formularios.forEach(formulario => formulario.style.display = 'none');
+
+    // Muestra el formulario seleccionado
+    const seleccion = document.getElementById('selector').value;
+    if (seleccion) {
+        document.getElementById(seleccion).style.display = 'block';
+    }
+}

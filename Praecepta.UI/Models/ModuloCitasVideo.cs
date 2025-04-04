@@ -7,8 +7,10 @@ namespace Praecepta.UI.Models
         public int NumCita { get; set; }
         public string Evento { get; set; }
         public DateTime FechaHora { get; set; }
-        
 
-       
+        public string tipo { get; set; }
+
+
+
     }
 }

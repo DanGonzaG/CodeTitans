@@ -110,5 +110,10 @@ namespace Praecepta.UI.Controllers
         {           
             return View();
         }
+
+        public IActionResult Tutorial()
+        {
+            return View();
+        }
     }
 }

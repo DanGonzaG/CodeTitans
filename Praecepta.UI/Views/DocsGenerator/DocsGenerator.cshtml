@@ -26,6 +26,31 @@
 <br />
 <br />
 <br />
+<div class="contact-form contact-form-two">
+    <div class="container">
+        <div class="contact-wrap">
+            <form id="contactForm" class="">
+                <h2>Filtrar Formualario</h2>
+                <div class="row justify-content-center">
+                    <div class="col-sm-6 col-lg-6">
+                        <div class="form-group">
+                            <input type="text" name="marca" id="marca" class="form-control" required data-error="Favor ingrese el dato" placeholder="">
+                            <div class="help-block with-errors"></div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-6">
+                        <div class="text-center">
+                            <button type="submit" class="contact-btn">Buscar</button>
+                        </div>
+                        <div id="msgSubmit" class="h3 text-center hidden"></div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </form>
+
+        </div>
+    </div>
+</div>
 <div class="contact-form contact-form-two contact-form-three">
     <div class="container">
         <div class="contact-wrap">
@@ -45,7 +70,7 @@
 
 <div id="TraspasoVehiculo" class="formulario contact-form contact-form-two contact-form-three">
     <div class="container">
-        <div class="contact-wrap">
+        <div id="MensajeFormularioVehiculo" class="contact-wrap" style="position:relative">
             <form id="contactForm" class="">
                 <h2>Traspaso Vechiculo</h2>
                 <div class="row justify-content-center">
@@ -257,6 +282,11 @@
 </div>
 
 
+<div id="tooltip">Crear un documento notarial para traspasar un inmuble tipo auntomovil a otro propietario.</div>
+
+
+<!--Vista DocsGenerator
+este codigo lo que hace es mostrar solo el formulario seleccionado en dropdown-->
 <script>
     function mostrarFormulario() {
         // Oculta todos los formularios
@@ -269,8 +299,26 @@
             document.getElementById(seleccion).style.display = 'block';
         }
     }
+
+    const FormMoto = document.getElementById("MensajeFormularioVehiculo");
+    const tooltip = document.getElementById("tooltip");
+
+
+    FormMoto.addEventListener("mouseover", (event) => {
+        const { x, y, height } = event.target.getBoundingClientRect();
+        tooltip.style.left = `${x}px`;
+        tooltip.style.top = `${y + height + 5}px`;
+        tooltip.style.display = "block";
+    });
+
+    FormMoto.addEventListener("mouseout", () => {
+        tooltip.style.display = "none";
+    });
+
+
+
 </script>
-</div>
+
 
 
 

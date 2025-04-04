@@ -221,6 +221,10 @@
       "PackagePath": "staticwebassets\\lyso\\fonts\\icofont.woff2"
     },
     {
+      "Id": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\Imagen1.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\Imagen1.png"
+    },
+    {
       "Id": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\PraeceptaLogo.png",
       "PackagePath": "staticwebassets\\lyso\\img\\PraeceptaLogo.png"
     },
@@ -499,6 +503,18 @@
     {
       "Id": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\testimonial\\6.jpg",
       "PackagePath": "staticwebassets\\lyso\\img\\testimonial\\6.jpg"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\tutorial\\Imagen2.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\tutorial\\Imagen2.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\tutorial\\Imagen3.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\tutorial\\Imagen3.png"
+    },
+    {
+      "Id": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\tutorial\\Imagen4.png",
+      "PackagePath": "staticwebassets\\lyso\\img\\tutorial\\Imagen4.png"
     },
     {
       "Id": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\lyso\\js\\Daniel.js",
