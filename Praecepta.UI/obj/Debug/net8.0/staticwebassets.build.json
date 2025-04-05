@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vQ0dwQ3ncB1xOXcnfp+2H0XsN3FefaqsPJIBJr07C+w=",
+  "Hash": "zfpwaR/SEyPF9snDGM4gP78Rqt5p24tiaSpBgiCxSnM=",
   "Source": "Praecepta.UI",
   "BasePath": "_content/Praecepta.UI",
   "Mode": "Default",
@@ -2240,25 +2240,6 @@
       "OriginalItemSpec": "wwwroot\\lyso\\img\\home-two\\home-slider\\2.png"
     },
     {
-      "Identity": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-two\\home-slider\\2-Daniel.jpg",
-      "SourceId": "Praecepta.UI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\",
-      "BasePath": "_content/Praecepta.UI",
-      "RelativePath": "lyso/img/home-two/home-slider/2-Daniel.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lyso\\img\\home-two\\home-slider\\2-Daniel.jpg"
-    },
-    {
       "Identity": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-two\\home-slider\\3.png",
       "SourceId": "Praecepta.UI",
       "SourceType": "Discovered",
@@ -2278,25 +2259,6 @@
       "OriginalItemSpec": "wwwroot\\lyso\\img\\home-two\\home-slider\\3.png"
     },
     {
-      "Identity": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-two\\home-slider\\3-Daniel.png",
-      "SourceId": "Praecepta.UI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\",
-      "BasePath": "_content/Praecepta.UI",
-      "RelativePath": "lyso/img/home-two/home-slider/3-Daniel.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lyso\\img\\home-two\\home-slider\\3-Daniel.png"
-    },
-    {
       "Identity": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-two\\home-slider\\4.png",
       "SourceId": "Praecepta.UI",
       "SourceType": "Discovered",
@@ -2314,25 +2276,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lyso\\img\\home-two\\home-slider\\4.png"
-    },
-    {
-      "Identity": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\home-two\\home-slider\\4-Daniel.png",
-      "SourceId": "Praecepta.UI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\",
-      "BasePath": "_content/Praecepta.UI",
-      "RelativePath": "lyso/img/home-two/home-slider/4-Daniel.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lyso\\img\\home-two\\home-slider\\4-Daniel.png"
     },
     {
       "Identity": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\lyso\\img\\Imagen1.png",
