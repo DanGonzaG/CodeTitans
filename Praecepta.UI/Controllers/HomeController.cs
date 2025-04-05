@@ -55,9 +55,9 @@ namespace Praecepta.UI.Controllers
         }
 
         
-        public IActionResult PracticeCrimeLaw()
+        public IActionResult CaseStudyDetails()
         {
-            return View("Practice/PracticeCrimeLaw");
+            return View("Practice/CaseStudyDetails");
         }
 
         public IActionResult AttorneyDetails()

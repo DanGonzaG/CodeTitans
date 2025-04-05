@@ -3,7 +3,7 @@
 /*==============================================================*/
 (function ($) {
     "use strict"; // Start of use strict
-    $("#contactForm").validator().on("submit", function (event) {
+    $("form").validator().on("submit", function (event) {
         if (event.isDefaultPrevented()) {
             formError();
             submitMSG(false, "Did you fill in the form properly?");
@@ -39,14 +39,15 @@
         });
     }
     function formSuccess(){
-        $("#contactForm")[0].reset();
+        $("form")[0].reset();
         submitMSG(true, "Message Submitted!")
     }
     function formError(){
-        $("#contactForm").removeClass().addClass('shake animated').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
+        $("form").removeClass().addClass('shake animated').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
             $(this).removeClass();
         });
     }
+
     function submitMSG(valid, msg){
         if(valid){
             var msgClasses = "h4 tada animated text-success";
