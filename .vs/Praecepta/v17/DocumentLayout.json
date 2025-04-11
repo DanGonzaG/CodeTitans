@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\AppPraecepta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\apppraecepta\\praecepta.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\apppraecepta\\praecepta.ui\\praecepta.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\praecepta.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\apppraecepta\\praecepta.ui\\views\\citas\\calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\views\\citas\\calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\apppraecepta\\praecepta.ui\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -17,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\apppraecepta\\praecepta.ui\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\apppraecepta\\praecepta.ui\\views\\docsgenerator\\docsprevisualizacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\views\\docsgenerator\\docsprevisualizacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\apppraecepta\\praecepta.ui\\views\\docsgenerator\\docsgenerator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\views\\docsgenerator\\docsgenerator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,25 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 214,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Praecepta.UI",
-              "DocumentMoniker": "C:\\AppPraecepta\\Praecepta.UI\\Praecepta.UI.csproj",
-              "RelativeDocumentMoniker": "Praecepta.UI\\Praecepta.UI.csproj",
-              "ToolTip": "C:\\AppPraecepta\\Praecepta.UI\\Praecepta.UI.csproj",
-              "RelativeToolTip": "Praecepta.UI\\Praecepta.UI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-10T23:06:51.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -62,42 +49,72 @@
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\AppPraecepta\\Praecepta.UI\\Program.cs",
-              "RelativeDocumentMoniker": "Praecepta.UI\\Program.cs",
-              "ToolTip": "C:\\AppPraecepta\\Praecepta.UI\\Program.cs",
-              "RelativeToolTip": "Praecepta.UI\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADkAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T22:16:53.763Z",
+              "Title": "Calendar.cshtml",
+              "DocumentMoniker": "C:\\AppPraecepta\\Praecepta.UI\\Views\\Citas\\Calendar.cshtml",
+              "RelativeDocumentMoniker": "Praecepta.UI\\Views\\Citas\\Calendar.cshtml",
+              "ToolTip": "C:\\AppPraecepta\\Praecepta.UI\\Views\\Citas\\Calendar.cshtml",
+              "RelativeToolTip": "Praecepta.UI\\Views\\Citas\\Calendar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T00:59:17.928Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\AppPraecepta\\Praecepta.UI\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Praecepta.UI\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ToolTip": "C:\\AppPraecepta\\Praecepta.UI\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeToolTip": "Praecepta.UI\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAD8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T21:13:26.357Z",
+              "WhenOpened": "2025-04-11T00:58:25.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\AppPraecepta\\Praecepta.UI\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Praecepta.UI\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ToolTip": "C:\\AppPraecepta\\Praecepta.UI\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeToolTip": "Praecepta.UI\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T21:13:12.275Z",
+              "WhenOpened": "2025-04-11T00:57:45.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocsPrevisualizacion.cshtml",
+              "DocumentMoniker": "C:\\AppPraecepta\\Praecepta.UI\\Views\\DocsGenerator\\DocsPrevisualizacion.cshtml",
+              "RelativeDocumentMoniker": "Praecepta.UI\\Views\\DocsGenerator\\DocsPrevisualizacion.cshtml",
+              "ToolTip": "C:\\AppPraecepta\\Praecepta.UI\\Views\\DocsGenerator\\DocsPrevisualizacion.cshtml",
+              "RelativeToolTip": "Praecepta.UI\\Views\\DocsGenerator\\DocsPrevisualizacion.cshtml",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T00:52:45.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocsGenerator.cshtml",
+              "DocumentMoniker": "C:\\AppPraecepta\\Praecepta.UI\\Views\\DocsGenerator\\DocsGenerator.cshtml",
+              "RelativeDocumentMoniker": "Praecepta.UI\\Views\\DocsGenerator\\DocsGenerator.cshtml",
+              "ToolTip": "C:\\AppPraecepta\\Praecepta.UI\\Views\\DocsGenerator\\DocsGenerator.cshtml",
+              "RelativeToolTip": "Praecepta.UI\\Views\\DocsGenerator\\DocsGenerator.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAFMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T00:48:13.773Z",
               "EditorCaption": ""
             }
           ]
