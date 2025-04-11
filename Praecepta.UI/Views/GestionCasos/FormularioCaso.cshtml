@@ -28,7 +28,7 @@
 <br />
 
 
-<div class="formulario contact-form contact-form-two contact-form-three">
+<div class="contact-form contact-form-two contact-form-three">
     <div class="container">
         <div class="contact-wrap">
             <form id="FormularioCaso">
@@ -73,9 +73,7 @@
                                 Revisar
                             </button>
                                 <!--<button type="submit" class="contact-btn">Submit Case</button>-->
-                        </div>
-                        <div id="msgSubmit" class="h3 text-center hidden"></div>
-                        <div class="clearfix"></div>
+                        </div>                        
                     </div>
                 </div>
             </form>
@@ -85,7 +83,7 @@
 </body>
 
 
-<!-- Modal -->
+<!-- Modal
 <div class="modal fade" id="PrevioModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">
         <div class="modal-content">
@@ -107,6 +105,32 @@
             </div>
         </div>        
     </div>  
+</div> -->
+
+<!-- Button trigger modal -->
+
+
+<!-- Modal -->
+<div class="modal fade" id="PrevioModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Revisión de datos ingresados</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">               
+                <p style="color: black"><strong>Tipo Caso:</strong> <span id="previoTipoCaso"></span></p>
+                <p style="color: black"><strong>Nombre del caso:</strong> <span id="previotitulo"></span></p>
+                <p style="color: black"><strong>Pruebas Iniciales:</strong> <span id="previoPruebas"></span></p>
+                <p style="color: black"><strong>Cliente:</strong> <span id="previoCliente"></span></p>
+                <p style="color: black"><strong>Detalles del Caso:</strong> <span id="previoDescripcion"></span></p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="contact-btn" data-bs-dismiss="modal" id="Retroceso">Close</button>
+                <button type="button" class="contact-btn">Save changes</button>
+            </div>
+        </div>
+    </div>
 </div>
 
 

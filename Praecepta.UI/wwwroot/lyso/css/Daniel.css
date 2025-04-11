@@ -1,5 +1,6 @@
 ﻿.mostrar {
-    color: black
+    color: black;
+    /*border: 1px solid #b69d74;*/
 }
 
 .contact-wrapDaniel {
@@ -55,5 +56,10 @@
     border-radius: 5px; /* Bordes redondeados */
     display: none; /* Oculto por defecto */
     z-index: 1000; /* Asegura que esté por encima de otros elementos */
+}
+
+/*se usa para que todos los formulario del modulo DocsGenerator este ocultos*/
+.formulario {
+    display: none;
 }
 

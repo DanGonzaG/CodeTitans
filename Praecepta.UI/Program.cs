@@ -1,10 +1,23 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Praecepta.UI.Data;
+using System.Globalization;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+/*var Idiomas = new[]
+{
+    new CultureInfo("en-US"),
+    new CultureInfo("es-ES"),
+};
+
+var localizacionEidioma = new RequestLocalizationOptions();
+localizacionEidioma.SupportedCultures = Idiomas;
+localizacionEidioma.SupportedUICultures = Idiomas;
+localizacionEidioma.SetDefaultCulture("es-ES");
+localizacionEidioma.ApplyCurrentCultureToResponseHeaders = true;*/
+
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
@@ -14,7 +27,11 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
 
+
+
 var app = builder.Build();
+
+//app.UseRequestLocalization(localizacionEidioma);
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

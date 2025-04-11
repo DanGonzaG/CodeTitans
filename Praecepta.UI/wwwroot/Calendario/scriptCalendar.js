@@ -22,7 +22,7 @@ let activeDay;
 let month = today.getMonth();
 let year = today.getFullYear();
 
-const months = [
+const monthsIngles = [
     "January",
     "February",
     "March",
@@ -35,6 +35,21 @@ const months = [
     "October",
     "November",
     "December",
+];
+
+const months = [
+    "Enero",
+    "Febrero",
+    "Marzo",
+    "Abril",
+    "Mayo",
+    "Junio",
+    "Julio",
+    "Agosto",
+    "Septiembre",
+    "Octubre",
+    "Noviembre",
+    "Diciembre",
 ];
 
 // const eventsArr = [

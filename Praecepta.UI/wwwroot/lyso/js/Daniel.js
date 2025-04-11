@@ -51,7 +51,7 @@ document.getElementById('PrevioBtn').addEventListener('click', () => {
     });
 });
 
-
+/*
 //Vista DocsGenerator
 //este codigo lo que hace es mostrar solo el formulario seleccionado en dropdown
 function mostrarFormulario() {
@@ -64,4 +64,4 @@ function mostrarFormulario() {
     if (seleccion) {
         document.getElementById(seleccion).style.display = 'block';
     }
-}
+}*/

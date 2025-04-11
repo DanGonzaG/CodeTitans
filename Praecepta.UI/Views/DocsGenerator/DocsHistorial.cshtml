@@ -26,15 +26,15 @@
 <br />
 <br />
 <br />
-<div class="contact-form contact-form-two">
+<div class="contact-form contact-form-two contact-form-three">
     <div class="container">
         <div class="contact-wrap">
             <form id="contactForm" class="">
-                <h2>Filtrar el listado</h2>
+                <h2>Filtrar el listado de documentos</h2>
                 <div class="row justify-content-center">
                     <div class="col-sm-6 col-lg-6">
                         <div class="form-group">
-                            <input type="text" name="marca" id="marca" class="form-control" required data-error="Favor ingrese el dato" placeholder="Ingrese la fecha">
+                            <input style="color:black" type="date" name="marca" id="marca" class="form-control" required data-error="Favor ingrese el dato" placeholder="Ingrese la fecha">
                             <div class="help-block with-errors"></div>
                         </div>
                     </div>
@@ -47,9 +47,7 @@
                     <div class="col-sm-6 col-lg-6">
                         <div class="text-center">
                             <button type="submit" class="contact-btn">Buscar</button>
-                        </div>
-                        <div id="msgSubmit" class="h3 text-center hidden"></div>
-                        <div class="clearfix"></div>
+                        </div>                     
                     </div>
                 </div>
             </form>
@@ -95,7 +93,7 @@
                             @item.Abogado
                         </td>
                         <td>
-                            <a class="cmn-btn" asp-controller="Home" asp-action="Index"><i class="fa-solid fa-eye"></i></a>
+                            <a class="cmn-btn" asp-controller="DocsGenerator" asp-action="DocsPrevisualizacion"><i class="fa-solid fa-eye"></i></a>
                             <a class="cmn-btn" asp-controller="Home" asp-action="Index"><i class="fa-solid fa-download"></i></a>
                             
                         </td>
