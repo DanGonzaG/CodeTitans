@@ -49,6 +49,36 @@ document.getElementById('PrevioBtn').addEventListener('click', () => {
 
 
     });
+
+    document.getElementById('Retroceso2').addEventListener('click', () => {
+
+        document.getElementById('TipoCaso').value = TipoCaso;
+        document.getElementById('titulo').value = titulo;
+        document.getElementById('Pruebas').value = Pruebas;
+        document.getElementById('NomCliente').value = NomCliente;
+        document.getElementById('descripcionCaso').value = descripcionCaso;
+        const previewModalInstance = bootstrap.Modal.getInstance(document.getElementById('PrevioModal'));
+        if (previewModalInstance) {
+            previewModalInstance.hide(); // Cerrar modal correctamente
+        };
+
+        const modalBackdrops = document.querySelectorAll('.modal-backdrop');
+        modalBackdrops.forEach((backdrop) => {
+            backdrop.parentNode.removeChild(backdrop); // Quitar el fondo
+        });
+
+        // Reactiva el scroll de la página
+        document.body.style.overflow = 'auto';
+        document.documentElement.style.overflow = 'auto';
+        document.body.style.position = 'static'; // Asegura que el body pueda desp
+
+
+
+        console.log('Cerrando el modal y eliminando el fondo...');
+
+
+
+    });
 });
 
 /*

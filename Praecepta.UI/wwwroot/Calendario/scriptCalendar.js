@@ -17,10 +17,17 @@ const calendar = document.querySelector(".calendar"),
     addEventTo = document.querySelector(".event-time-to "),
     addEventSubmit = document.querySelector(".add-event-btn ");
 
+
+//let Midia = new Date();
+//let today = Midia.toLocaleDateString('es-ES', { weekday: 'long' });
+
 let today = new Date();
+console.log(today);
 let activeDay;
 let month = today.getMonth();
 let year = today.getFullYear();
+//let month = Midia.getMonth();
+//let year = Midia.getFullYear();
 
 const monthsIngles = [
     "January",
@@ -83,7 +90,7 @@ let eventsArr = [
         month: 3,
         year: 2025,
         events: [
-            { title: "Revisión de contrato laboral", time: "09:00 - 10:00" },
+            { title: "Revisar contrato laboral", time: "09:00 - 10:00" },
         ],
     },
 
@@ -109,7 +116,7 @@ let eventsArr = [
         month: 4,
         year: 2025,
         events: [
-            { title: "Redacción de escritura pública", time: "15:45 - 16:45" },
+            { title: "Redactar escritura de propiedad", time: "15:45 - 16:45" },
         ],
     },
 
@@ -118,7 +125,7 @@ let eventsArr = [
         month: 4,
         year: 2025,
         events: [
-            { title: "Revisión de contrato de alquiler", time: "08:15 - 09:00" },
+            { title: "Revisar contrato de alquiler", time: "08:15 - 09:00" },
         ],
     },
 
@@ -145,7 +152,7 @@ let eventsArr = [
         month: 4,
         year: 2025,
         events: [
-            { title: "Elaboración de apelación", time: "16:00 - 17:00" },
+            { title: "Elaborar apelación", time: "16:00 - 17:00" },
         ],
     },
 
@@ -154,7 +161,7 @@ let eventsArr = [
         month: 4,
         year: 2025,
         events: [
-            { title: "Audiencia de conciliación", time: "09:45 - 12:00" },
+            { title: "Audiencia para conciliaciar", time: "09:45 - 12:00" },
         ],
     },
 
@@ -163,7 +170,7 @@ let eventsArr = [
         month: 4,
         year: 2025,
         events: [
-            { title: "Negociación de contrato comercial", time: "10:15 - 12:00" },
+            { title: "Firma de contrato comercial", time: "10:15 - 12:00" },
         ],
     },
 
@@ -172,7 +179,7 @@ let eventsArr = [
         month: 4,
         year: 2025,
         events: [
-            { title: "Preparación de documentos notariales", time: "15:00 - 16:00" },
+            { title: "Preparar documentos notariales", time: "15:00 - 16:00" },
         ],
     },
 
@@ -181,7 +188,7 @@ let eventsArr = [
         month: 4,
         year: 2025,
         events: [
-            { title: "Revisión de demandas", time: "13:15 - 14:15" },
+            { title: "Revisar demandas", time: "13:15 - 14:15" },
         ],
     },
 
@@ -217,7 +224,7 @@ let eventsArr = [
         month: 5,
         year: 2025,
         events: [
-            { title: "Revisión de contrato de servicio", time: "14:00 - 16:00" },
+            { title: "Revisar contrato de servicio", time: "14:00 - 16:00" },
         ],
     },
 
@@ -226,7 +233,7 @@ let eventsArr = [
         month: 5,
         year: 2025,
         events: [
-            { title: "Asesoría legal sobre bienes raíces", time: "08:45 - 10:00" },
+            { title: "Asesorar legalmente sobre bienes raíces", time: "08:45 - 10:00" },
         ],
     },
 
@@ -467,7 +474,7 @@ function updateEvents(date) {
     });
     if (events === "") {
         events = `<div class="no-event">
-            <h3>No Events</h3>
+            <h3>Sin Citas</h3>
         </div>`;
     }
     eventsContainer.innerHTML = events;
@@ -684,6 +691,19 @@ function convertTime(time) {
 $(document).ready(function () {
     $('#ModalCitasFuturas').on('shown.bs.modal', function () {
         console.log($('#tablaCitasFuturas').length);
-        $('#tablaCitasFuturas').DataTable();
+        $('#tablaCitasFuturas').DataTable({
+            language: {
+                paginate: {
+                    previous: "Anterior",
+                    next: "Siguiente"
+                },
+                emptyTable: "No hay datos disponibles en la tabla",
+                info: "Mostrando _START_ a _END_ de _TOTAL_ entradas",
+                lengthMenu: "Mostrar _MENU_ entradas",
+                search: "Buscar:",
+                zeroRecords: "No se encontraron resultados"
+            }
+
+        });
     });
 });
