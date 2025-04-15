@@ -1,40 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\AppPraecepta\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\apppraecepta\\praecepta.ui\\views\\shared\\_layoutlyso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\views\\shared\\_layoutlyso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\apppraecepta\\praecepta.ui\\wwwroot\\lyso\\css\\daniel.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\wwwroot\\lyso\\css\\daniel.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\apppraecepta\\praecepta.ui\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\apppraecepta\\praecepta.ui\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\apppraecepta\\praecepta.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\apppraecepta\\praecepta.ui\\views\\gestioncasos\\etapaspl.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\views\\gestioncasos\\etapaspl.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\apppraecepta\\praecepta.ui\\wwwroot\\calendario\\stylecalendar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\wwwroot\\calendario\\stylecalendar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|c:\\apppraecepta\\praecepta.ui\\views\\citas\\calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFCF5C37-2791-47AD-A279-06388BA744F8}|Praecepta.UI\\Praecepta.UI.csproj|solutionrelative:praecepta.ui\\views\\citas\\calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -42,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 214,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,108 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\AppPraecepta\\Praecepta.UI\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "Praecepta.UI\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "C:\\AppPraecepta\\Praecepta.UI\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "Praecepta.UI\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEoAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T21:28:50.606Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\AppPraecepta\\Praecepta.UI\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Praecepta.UI\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\AppPraecepta\\Praecepta.UI\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Praecepta.UI\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-14T03:09:59.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EtapasPL.cshtml",
-              "DocumentMoniker": "C:\\AppPraecepta\\Praecepta.UI\\Views\\GestionCasos\\EtapasPL.cshtml",
-              "RelativeDocumentMoniker": "Praecepta.UI\\Views\\GestionCasos\\EtapasPL.cshtml",
-              "ToolTip": "C:\\AppPraecepta\\Praecepta.UI\\Views\\GestionCasos\\EtapasPL.cshtml",
-              "RelativeToolTip": "Praecepta.UI\\Views\\GestionCasos\\EtapasPL.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAD8AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-14T03:06:53.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\AppPraecepta\\Praecepta.UI\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Praecepta.UI\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\AppPraecepta\\Praecepta.UI\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Praecepta.UI\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAFgCAAAAAAAAAAAAAHQCAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-14T03:02:56.309Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "styleCalendar.css",
-              "DocumentMoniker": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\Calendario\\styleCalendar.css",
-              "RelativeDocumentMoniker": "Praecepta.UI\\wwwroot\\Calendario\\styleCalendar.css",
-              "ToolTip": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\Calendario\\styleCalendar.css",
-              "RelativeToolTip": "Praecepta.UI\\wwwroot\\Calendario\\styleCalendar.css",
-              "ViewState": "AgIAAG0CAAAAAAAAAAAAAIoCAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-14T02:41:27.47Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Daniel.css",
-              "DocumentMoniker": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\Daniel.css",
-              "RelativeDocumentMoniker": "Praecepta.UI\\wwwroot\\lyso\\css\\Daniel.css",
-              "ToolTip": "C:\\AppPraecepta\\Praecepta.UI\\wwwroot\\lyso\\css\\Daniel.css",
-              "RelativeToolTip": "Praecepta.UI\\wwwroot\\lyso\\css\\Daniel.css",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-14T02:41:00.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Calendar.cshtml",
-              "DocumentMoniker": "C:\\AppPraecepta\\Praecepta.UI\\Views\\Citas\\Calendar.cshtml",
-              "RelativeDocumentMoniker": "Praecepta.UI\\Views\\Citas\\Calendar.cshtml",
-              "ToolTip": "C:\\AppPraecepta\\Praecepta.UI\\Views\\Citas\\Calendar.cshtml",
-              "RelativeToolTip": "Praecepta.UI\\Views\\Citas\\Calendar.cshtml",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAAAHMAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-14T01:18:20.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_LayoutLyso.cshtml",
-              "DocumentMoniker": "C:\\AppPraecepta\\Praecepta.UI\\Views\\Shared\\_LayoutLyso.cshtml",
-              "RelativeDocumentMoniker": "Praecepta.UI\\Views\\Shared\\_LayoutLyso.cshtml",
-              "ToolTip": "C:\\AppPraecepta\\Praecepta.UI\\Views\\Shared\\_LayoutLyso.cshtml",
-              "RelativeToolTip": "Praecepta.UI\\Views\\Shared\\_LayoutLyso.cshtml",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGUAAAB8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-14T01:11:31.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }
